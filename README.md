@@ -14,11 +14,26 @@ Program ini merupakan studi kasus sederhana menggunakan bahasa pemrograman **Dar
 
 ---
 
+## Penjelasan Singkat Kode
+
+Program ini adalah aplikasi sederhana untuk menghitung BMI (Body Mass Index) menggunakan bahasa Dart. Pengguna dapat mengubah nilai berat dan tinggi yang ada pada kode, kemudian program akan menghitung BMI dan menentukan kategorinya.
+
+Berikut alur program:
+
+1. Menampilkan judul program
+2. Mendeklarasikan variabel berat (kg) dan tinggi (cm)
+3. Mengubah tinggi dari cm ke meter
+4. Menghitung BMI menggunakan rumus:
+   BMI = Berat (kg) / (Tinggi (m) × Tinggi (m))
+5. Menentukan kategori BMI berdasarkan hasil yang diperoleh
+6. Menampilkan hasil BMI dan kategori ke layar
+
+---
+
 ## Rumus BMI
 
 Rumus perhitungan:
 BMI = Berat (kg) / (Tinggi (m) × Tinggi (m))
-
 
 Kategori BMI:
 
