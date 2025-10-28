@@ -39,7 +39,7 @@ Kategori BMI:
 
 ---
 
-Tampilan
-
+## Tampilan## Tampilan
+<img width="600" alt="Tampilan Program" src="https://github.com/user-attachments/assets/647a574a-f9ea-464f-8c28-0b3ed0144887" />
 
 ---
